@@ -1,0 +1,15 @@
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\bin\Debug\net6.0\RouletteApp.exe
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\bin\Debug\net6.0\RouletteApp.deps.json
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\bin\Debug\net6.0\RouletteApp.runtimeconfig.json
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\bin\Debug\net6.0\RouletteApp.dll
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\bin\Debug\net6.0\RouletteApp.pdb
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.csproj.AssemblyReference.cache
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.AssemblyInfoInputs.cache
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.AssemblyInfo.cs
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.csproj.CoreCompileInputs.cache
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.dll
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\refint\RouletteApp.dll
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.pdb
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\RouletteApp.genruntimeconfig.cache
+C:\Users\pinhe\OneDrive\Desktop\RouletteApp\RouletteApp\obj\Debug\net6.0\ref\RouletteApp.dll
